@@ -1,4 +1,4 @@
 dev
-# fun-repo!!!!&&!!&&!!$$
+# fun-repo!!!!&&!!&&!!
 # fun-repo!!!
  main
